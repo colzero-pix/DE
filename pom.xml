@@ -20,6 +20,11 @@
     <developers>
         <developer/>
     </developers>
+    <modules>
+        <module>student</module>
+        <module>teacher</module>
+        <module>administrator</module>
+    </modules>
     <scm>
         <connection/>
         <developerConnection/>
