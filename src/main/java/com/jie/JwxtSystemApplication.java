@@ -1,13 +1,11 @@
-package com.jie.administrator;
+package com.jie;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AdministratorApplication {
-
+public class JwxtSystemApplication {
     public static void main(String[] args) {
-        SpringApplication.run(AdministratorApplication.class, args);
+        SpringApplication.run(JwxtSystemApplication.class, args);
     }
-
 }
