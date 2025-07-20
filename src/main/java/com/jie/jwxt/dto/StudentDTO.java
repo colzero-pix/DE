@@ -1,6 +1,6 @@
-package com.jie.jwxt.dto
+package com.jie.jwxt.dto;
 
-
+@Data
 public class StudentDTO {
     
 }
